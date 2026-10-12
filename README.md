@@ -237,6 +237,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [UN Data](https://data.un.org/Host.aspx?Content=API) | United Nations statistical data | None | Yes | Unknown |
 | [Census Bureau (US)](https://www.census.gov/data/developers/data-sets.html) | US demographic and economic data | API Key | Yes | Unknown |
 | [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/pages/docApi) | US crime statistics by jurisdiction | API Key | Yes | Unknown |
+| [Invokely](https://invokely.ai/docs) | Official statistics MCP with a no-card Free plan (500 calls/month); REST data endpoints require Builder, Pro or prepaid credits; the catalog and CSV export are available on all plans with an API key | None (MCP trial); API key/OAuth (account MCP); API key (REST) | Yes | Yes |
 | [Regulations.gov](https://open.gsa.gov/api/regulationsgov/) | US federal regulations and public comments | API Key | Yes | Unknown |
 
 ## 🏥 Health & Medicine
