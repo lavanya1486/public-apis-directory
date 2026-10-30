@@ -325,9 +325,10 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [Fake Store API](https://fakestoreapi.com/) | Fake e-commerce data for testing | None | Yes | Yes |
-| [eBay API](https://developer.ebay.com/) | Product listings and search | OAuth | Yes | Unknown |
 | [Best Buy](https://developer.bestbuy.com/) | Product catalog and pricing | API Key | Yes | Unknown |
+| [eBay API](https://developer.ebay.com/) | Product listings and search | OAuth | Yes | Unknown |
+| [Fake Store API](https://fakestoreapi.com/) | Fake e-commerce data for testing | None | Yes | Yes |
+| [Pangolinfo Amazon Scraper API](https://docs.pangolinfo.com/en-api-reference/amazonApi/submit) | Amazon product data in JSON, raw HTML, or Markdown; 60 free credits per month | API Key | Yes | Unknown |
 | [Walmart Open API](https://walmart.io/) | Product catalog and marketplace data | API Key | Yes | Unknown |
 
 ## 📱 Social Media
