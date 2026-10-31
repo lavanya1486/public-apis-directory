@@ -55,6 +55,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 - [Sports & Fitness](#-sports--fitness)
 - [Test / Placeholder Data](#-test--placeholder-data)
 - [Transportation & Vehicles](#-transportation--vehicles)
+- [Travel & Experiences](#-travel--experiences)
 - [Video & Movies](#-video--movies)
 - [How to Contribute](#-how-to-contribute)
 
@@ -370,6 +371,12 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [AviationStack](https://aviationstack.com/) | Flight schedules and tracking | API Key | Yes | Unknown |
 | [TransitLand](https://www.transit.land/documentation) | Public transit schedules/routes worldwide | API Key | Yes | Unknown |
 | [CityBikes](https://api.citybik.es/v2/) | Real-time bike-share station data worldwide | None | Yes | Unknown |
+
+## 🧭 Travel & Experiences
+
+| API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily travel, activity and personal-goal inspiration with images and source links | None | Yes | Yes |
 
 ## 🎬 Video & Movies
 
