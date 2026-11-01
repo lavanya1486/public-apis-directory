@@ -375,6 +375,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Arcmira](https://arcmira.com/docs) | Search indexed YouTube and podcast transcripts for timestamped passages | API Key | Yes | Yes |
 | [TMDb](https://developer.themoviedb.org/docs) | Movies, TV shows, cast, ratings | API Key | Yes | Yes |
 | [OMDb](https://www.omdbapi.com/) | Movie/show metadata | API Key | Yes | Unknown |
 | [YouTube Data API](https://developers.google.com/youtube/v3) | Videos, channels, playlists | API Key/OAuth | Yes | Unknown |
